@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<head>
+<title> first code</title>
+<meta charset= "utf 8"/>
+<meta name= "viewport" content= "device=device-width", initial-scale="1"/>
+<style>
+{
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetic, sans-serif;
+    <a href=file:///C:/Users/HP%202/Downloads/Flag-Nigeria.webp>
+         <img alt="Coat of arm" src="https:file:///C:/Users/HP%202/Downloads/Flag-Nigeria.webp
+      </a>
+   }
+header{
+    background-color: green;
+    text-align: center;
+    padding: 60px
+    font-size: 30%;
+    color: white;
+}
+
+nav{
+    -webkit-flex:1;
+    -ms-flex:1;
+    flex:1;
+    background:#ccc;
+    padding:10px;
+}
+nav ul{
+    list-style-type:none;
+    padding:0; 
+}
+.topnav {
+  position: relative;
+  overflow: hidden;
+  background-color:#333;
+  }
+.topnav a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+}
+.topnav a:hover {
+  background-color:#000000;
+  color: #00ff00;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+@media screen and (max-width: 600px){
+  .topnav a, .topnav-right{
+    float: none;
+    display; block;
+  }
+  section {
+    display: -webkit-flex;
+    display: flex;
+@media (max-width: 600px) 
+}
+article {
+    -webkit-flex:3
+    -ms-flex:3
+    flex:3
+    background-color: #f1f1f1;
+    padding:20px;
+}
+    section{
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    }
+</style>
+</head>
+<body>
+
+<header>
+  <h2>NIGERIA DATA HOUSE</h2>
+</header>
+
+<header.date>
+  <p id= "demo"></p>
+  
+  <script>
+  const d= new Date();
+  document.getElementById("demo").innerHTML = d;
+  </script>
+</header.date>
+
+<div class="topnav #a.topnav:hover">
+     <a class="active" href="#home">Home</a>
+     <a href="#news">NIN reg</a>
+     <a href="#request">Voters Card</a>
+     <a href="#contact">Birth and death reg</a>
+     <a href="#about">Equiry</a>
+</div>
+
+<div style="padding-left:16px">
+<h2>Welcome!</h2>
+<p>To our oficial page!.</p>
+<p>Get everything done at the comfort of your home.</p>
+
+<section>
+  <nav #.nav:hover>
+    <a href="#">Tracking id</a><br>
+    <a href="#">Call</a>
+  </nav>
+  <article>
+    <h2>Click here to<a href="Sign in"> Sign in</a><h2>
+    <p>Already registered? please log in below</p>
+    <form>
+    <label for="BVN">BVN</label><br>
+    <input type="text" id="BVN" value="BVN"><br>
+    <label for="Surname">Surname</label><br>
+    <input type="text" id="Surname" value="Surname"><br><br>
+    <input type="submit" value ="submit">
+  </article>
+</section>
+
+<footer style ="background-color: green; color: white; padding: 14px; text-align: center;">Nigeria 2022(c)</footer>
+</body>
+</html>
