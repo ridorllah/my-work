@@ -1,4 +1,3 @@
-i am Bamgbose Omorilewa
-an aspiring task force developer
-uses htmll/css and javaScript for now
-moving onto Vue.Js for the code aspect of being a task force developer
+Nigeria Data House
+i am trying to bridge the gap between the goverment lack of sustainable policies and lack of legit records
+Html amd CSS are the use of the cnstruct
